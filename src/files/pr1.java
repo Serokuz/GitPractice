@@ -1,6 +1,4 @@
-package C1;
-
-import org.w3c.dom.ls.LSOutput;
+package files;
 
 public class pr1 {
     public static void main(String[] args) {

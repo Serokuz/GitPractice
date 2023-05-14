@@ -1,4 +1,4 @@
-package C1;
+package files;
 
 public class pr2 {
     public static void main(String[] args) {
